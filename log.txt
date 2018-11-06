@@ -16,3 +16,14 @@ Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist 
 Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
 **************************S*E*A*R*C*H**R*E*S*U*L*T*S************************** 
 Artist: DRAKE, Venue: Rogers Place, Location: Edmonton, Date of Event: 11/06/2018 
+**************************S*E*A*R*C*H**R*E*S*U*L*T*S************************** 
+Artist: DRAKE, Venue: Rogers Place, Location: Edmonton, Date of Event: 11/06/2018 
+**************************S*E*A*R*C*H**R*E*S*U*L*T*S**************************
+Title: Titanic, Release Year: 19 Dec 1997, IMDB Rating: 7.8, Rotten Tomatoes: 89%
+Country: USA, Language: English, Swedish
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+**************************S*E*A*R*C*H**R*E*S*U*L*T*S**************************
+Artist: TLC, Song name: No Scrubs
+External url: https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW
+Album: Fanmail

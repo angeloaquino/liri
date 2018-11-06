@@ -62,7 +62,7 @@ if (process.argv[2] == 'concert-this') {
 // * Plot of the movie.
 // * Actors in the movie
 
-if (process.argv[2] == 'movie-this') {
+else if (process.argv[2] == 'movie-this') {
   // console.log(input);
   //if input is false
   if (process.argv[3] === undefined) {
@@ -81,7 +81,7 @@ if (process.argv[2] == 'movie-this') {
   });
 }
 
-if (process.argv[2] === 'spotify-this-song') {
+else if (process.argv[2] === 'spotify-this-song') {
   if (process.argv[3] === undefined) {
     input = "The Sign by Ace of Base";
   }
@@ -103,7 +103,7 @@ if (process.argv[2] === 'spotify-this-song') {
 // It should run spotify-this-song for "I Want it That Way," as follows the text in random.txt.
 // Edit the text in random.txt to test out the feature for movie-this and concert-this.
 
-if (process.argv[2] === 'do-what-it-says') {
+else if (process.argv[2] === 'do-what-it-says') {
   fs.readFile("random.txt", "utf8", function (error, data) {
     if (error) {
       return console.log('Error occurred: ' + err);
@@ -124,6 +124,7 @@ if (process.argv[2] === 'do-what-it-says') {
     }
   });
 }
-
-
+else{
+  console.log("please input 'node liri.js concert-this or movie-this or spotify-this-song or do-what-it-says' to make liri work for you!" )
+}
 
